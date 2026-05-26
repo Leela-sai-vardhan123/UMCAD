@@ -109,13 +109,21 @@ We have adapted and paraphrased the problem statement, methodology descriptions,
 
 ---
 
-## 8. License
+## 8. My Contribution
+
+- Worked on training and testing YOLOv8 models for real-time person detection and anomaly monitoring from CCTV video streams.
+- Contributed to the implementation and experimentation of the MS-GAT module for interaction-aware anomaly analysis in multi-camera environments.
+- Assisted in video processing, tracking workflow integration, and debugging to improve detection consistency and reduce false alarms.
+- Helped in Streamlit dashboard integration for visualizing multi-camera monitoring outputs and anomaly alerts.
+- Participated in model evaluation using benchmark datasets such as UCF-Crime and ShanghaiTech for performance analysis.
+
+## 9. License
 
 This project is licensed under the **MIT License**:
 
 
 
-## 9. Citation
+## 10. Citation
 
 If you use this work in your research, please cite:
 
